@@ -1,5 +1,9 @@
 # flutter_binex_app
 
+| Home Page     | Trading Page      |  
+| ------------- | -------------    | 
+| [![Screenshot-1647703219.png](https://i.postimg.cc/yNX6NHqr/Screenshot-1647703219.png)](https://postimg.cc/v1TwPCZW) | [![Screenshot-1647734338.png](https://i.postimg.cc/9XS2CMRQ/Screenshot-1647734338.png)](https://postimg.cc/BtxkCJBr)  |
+
 A new Flutter project.
 
 ## Getting Started
