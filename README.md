@@ -1,6 +1,6 @@
 # flutter_binex_app
 
-Credit Design Exploration : [Binex Coin Wallet App](https://dribbble.com/shots/16854499-Binex-Cryptocurrency-Mobile-App-UI)
+Credit Design Exploration : [Binex Cryptocurrency Mobile App UI](https://dribbble.com/shots/16854499-Binex-Cryptocurrency-Mobile-App-UI)
 
 | Home Page     | Trading Page      |  
 | ------------- | -------------    | 
