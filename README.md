@@ -1,5 +1,7 @@
 # flutter_binex_app
 
+Credit Design Exploration : https://dribbble.com/shots/16854499-Binex-Cryptocurrency-Mobile-App-UI
+
 | Home Page     | Trading Page      |  
 | ------------- | -------------    | 
 | [![Screenshot-1647703219.png](https://i.postimg.cc/yNX6NHqr/Screenshot-1647703219.png)](https://postimg.cc/v1TwPCZW) | [![Screenshot-1647734338.png](https://i.postimg.cc/9XS2CMRQ/Screenshot-1647734338.png)](https://postimg.cc/BtxkCJBr)  |
